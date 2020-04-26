@@ -2,7 +2,7 @@
   <section>
     <p>{{ message }}</p>
     <hr>
-    <router-link to="/price">Price</router-link>
+    <router-link to="/price">Price!</router-link>
   </section>
 </template>
 
